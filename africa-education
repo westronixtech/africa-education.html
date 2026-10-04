@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Africa Education Program | WESTRONIX TECH</title>
+ 
+<style>
+body{
+font-family:Arial,sans-serif;
+margin:0;
+background:#f5f7fb;
+color:#222;
+line-height:1.6;
+}
+ 
+.hero{
+background:#071526;
+color:white;
+padding:80px 20px;
+text-align:center;
+}
+ 
+.container{
+max-width:1000px;
+margin:auto;
+padding:40px 20px;
+}
+ 
+.card{
+background:white;
+border-radius:12px;
+padding:30px;
+margin-bottom:25px;
+box-shadow:0 2px 10px rgba(0,0,0,.08);
+}
+ 
+.btn{
+display:inline-block;
+padding:12px 20px;
+border-radius:8px;
+text-decoration:none;
+font-weight:bold;
+}
+ 
+.green{
+background:#10b981;
+color:white;
+}
+ 
+.blue{
+background:#1677ff;
+color:white;
+}
+ 
+h1,h2{
+margin-top:0;
+}
+</style>
+</head>
+ 
+<body>
+ 
+<div class="hero">
+<h1>Africa Education Program</h1>
+<p>Protecting the Planet. Empowering Education.</p>
+</div>
+ 
+<div class="container">
+ 
+<div class="card">
+<h2>Our Mission</h2>
+ 
+<p>
+At WESTRONIX TECH, we believe every retired device holds the power to create a better future.
+</p>
+ 
+<p>
+By refurbishing, reusing, and responsibly recycling technology, we help reduce e-waste while supporting students and schools across Africa through affordable computers, digital learning, and educational opportunities.
+</p>
+ 
+<p>
+Every device recovered helps build a cleaner planet and a brighter future for the next generation.
+</p>
+</div>
+ 
+<div class="card">
+<h2>What We Do</h2>
+ 
+<ul>
+<li>Computer Donations</li>
+<li>Refurbished Laptops for Students</li>
+<li>Affordable School Computer Labs</li>
+<li>Digital Literacy Programs</li>
+<li>STEM Education Support</li>
+<li>Technology Reuse & Sustainability</li>
+</ul>
+</div>
+ 
+<div class="card">
+<h2>Donate Equipment</h2>
+ 
+<p>
+Donate retired laptops, desktops, monitors, and IT equipment to support education and reduce e-waste.
+</p>
+ 
+westronix.tech@gmail.com
+Donate Equipment
+</a>
+</div>
+ 
+<div class="card">
+<h2>Become a Partner</h2>
+ 
+<p>
+We welcome partnerships with schools, nonprofits, businesses, recyclers, and community organizations.
+</p>
+ 
+westronix.tech@gmail.com
+Become a Partner
+</a>
+</div>
+ 
+</div>
+ 
+</body>
+</html>
